@@ -1,0 +1,14 @@
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\IrisSkin2.dll
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.Form1.resources
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.exe
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.pdb
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\xinqiang\Desktop\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.csproj.ResolveComReference.cache
